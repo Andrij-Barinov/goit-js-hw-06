@@ -9,4 +9,4 @@
 - Деструктуризація масивів
 - Патерн «Об'єкт параметрів»
 
-  [Посилання на репозиторій 🍫](https://github.com/ArtemRysich/University_2/tree/main/Lesson_6)
+[Посилання на репозиторій 🍫](https://github.com/ArtemRysich/University_2)
